@@ -3,7 +3,7 @@ PMG coding challenge submission csv-combiner
 
 Run in commandline 
 
-python3 csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv -o output.csv, where the last argument is the output file
+python3 csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > output.csv, where the last argument is the output file
 
 '''
 
